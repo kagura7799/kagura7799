@@ -3,7 +3,7 @@
 ### **<div align="center">Hi, I'm Maxim 👨‍💻 </div>**  
   
 
-- 🌱 I’m currently learning PostgreSQL and Docker  
+- ⚡ I’m currently learning PostgreSQL and Docker  
   
 
 - ⚡ Fun fact: I use tabs over spaces  
