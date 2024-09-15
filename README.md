@@ -1,17 +1,8 @@
-  
+![Header](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoEou_OPYp9Ss1s793Z7WiTUl-qsNXbCLYZ9z4pICLYfz-ZRxP)
 
-### **<div align="center">Hi, I'm Maxim 👨‍💻 </div>**  
-  
+## Languages and Tools
+![С/C++](https://img.shields.io/badge/-C/C++-427ef5?style=for-the-badge&logo=C)
+![Rust](https://img.shields.io/badge/-Rust-f54242?style=for-the-badge&logo=Rust)
 
-I’m currently learning C++  
-  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-</td><td valign="top" width="33%">
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=kagura7799&&style=flat-square" align="center" />
-</div>  
-  
-
+## Follow me
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/bosskollega)
